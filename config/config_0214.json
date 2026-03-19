@@ -1,0 +1,11 @@
+{
+    "experiment_name": "unet_diffusion",
+    "ssim_alpha": 0.025,
+    "start_lr": 1e-4,
+    "patience": 200,
+    "factor": 0.5,
+    "early_stop": 400,
+    "epochs": 2000,
+    "batch_size": 16,
+    "train_split": 0.9
+}
